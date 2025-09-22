@@ -18,9 +18,9 @@
    - Viðeigandi leið til úrlausnar: Þar sem þetta er árekstur milli notenda og yfirmanns ætti að vera “product owner” sem sér um úrlausnina.
 
 4. **Dæmi #4**  
-   - Átaksþáttur: Starfsmenn vilja geta skráð tíma án nets, en forritarar segja að það er auka kostnaður að halda utan um gögnin og senda eftirá þegar nettengingu er náð.
-   - Hagsmunaaðilar: forritarar, liðveislu starfsmenn, deildarstjórar
-   - Viðeigandi leið til úrlausnar: Þetta hefur í för með sér aukin kostnað. Þ.a. "eigandi verkefnisins" þarf að taka ákvörðun um hvort eigi að leggja í þennan kostnað.
+   - Átaksþáttur:
+   - Hagsmunaaðilar:
+   - Viðeigandi leið til úrlausnar:
 
 ## Requirements Substance Conflicts
 5. **Dæmi #5**  
@@ -30,9 +30,9 @@
 
 
 6. **Dæmi #6**  
-   - Átaksþáttur: 
-   - Hagsmunaaðilar:
-   - Viðeigandi leið til úrlausnar:
+   - Átaksþáttur: Starfsmenn vilja geta skráð tíma án nets, en forritarar segja að það er auka kostnaður að halda utan um gögnin og senda eftirá þegar nettengingu er náð.
+   - Hagsmunaaðilar: forritarar, liðveislu starfsmenn, deildarstjórar
+   - Viðeigandi leið til úrlausnar: Þetta hefur í för með sér aukin kostnað. Þ.a. "eigandi verkefnisins" þarf að taka ákvörðun um hvort eigi að leggja í þennan kostnað.
 
 ## Requirements Process Conflicts
 7. **Dæmi #7**  
