@@ -1,9 +1,9 @@
 # Software Requirements Specification (útgáfa fyrir verkefni 2)
 ## Númer teymis og höfundar
-[Setjið inn númer teymis og fullt nafn höfunda verkefnis]
+Hópur4: Kridtófer Kári Þorsteinsson, Helga Solveig McAdam og Bergur Ísak Ólafsson
 
 ## Heiti kerfis
-[Setjið inn nafn kerfis]
+Tíminn
 
 ## 1. Inngangur
 
