@@ -28,7 +28,6 @@
    - Hagsmunaaðilar: Liðveislu starfsmenn, launafulltrúi.
    - Viðeigandi leið til úrlausnar: Horfa þarf til markmiðs verkefnisins. Sem er ekki endilega að sýna starfsmönnum launin sín.
 
-
 6. **Dæmi #6**  
    - Átaksþáttur: Notendur vilja að innskráning renni aldrei út, en öryggisstaðlar krefjast reglulegrar endurnýjunar.
    - Hagsmunaaðilar: liðveislu starfsmenn, persónuverndarfulltrúi
