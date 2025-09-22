@@ -20,19 +20,19 @@ Einnig á forritið að geta tekið myndir af kvittunum á mat og afþreyingu. �
 
 ## 2. Lýsing á hagsmunaaðilum og notendahópum
 
-Forgangsnotendur:
+Forgangsnotendur:    
 Starfsmenn í liðveislu – Nota kerfið daglega til að skrá vinnutíma, akstur og kvittanir. Aðalnotendahópurinn sem kerfið er hannað fyrir.
 
-Aðrir lykilhópar innan stofnunar:
+Aðrir lykilhópar innan stofnunar:    
 Verkefnastjórar / umsjónarmenn – Yfirfara og samþykkja skráningar til að tryggja gæði gagna.
 Launafulltrúar / fjármáladeild – Nota úttak úr kerfinu til launavinnslu og bókhalds.
 
-Utan stofnunar / óbeinir hagsmunaaðilar:
+Utan stofnunar / óbeinir hagsmunaaðilar:     
 Launafyrirtæki / bókhaldsþjónusta – Tekur við úttaki til að vinna laun.
 Ríkisskattstjóri / opinberir eftirlitsaðilar – Tryggja að lög og reglur séu uppfylltar.
 Sveitarfélag / opinber styrktaraðili – Fjármagna þjónustuna og vilja gagnsæi í úrvinnslu gagna.
 
-Óæskilegir / útilokaðir:
+Óæskilegir / útilokaðir:     
 Starfsmenn utan liðveisluþjónustu – Hafa ekki aðgang en gætu reynt að nota kerfið ranglega.
 
 [Hagsmunaaðilar og notendahópar](STAKEHOLDERS.md)
