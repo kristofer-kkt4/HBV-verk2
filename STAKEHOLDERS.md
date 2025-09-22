@@ -10,16 +10,22 @@ Fyrir hvern notendahóp skal skrá:
 -->
 
 ## Utan stofnunar viðskiptavinar (ekki viðskiptavinir)
-1. **[Utan stofnunar #1]** – hlutverk og væntingar.
-2. **[Utan stofnunar #2]** – hlutverk og væntingar.
+1. **[Utan stofnunar #1]** – Launafyrirtæki / bókhaldsþjónusta:
+Tekur við úttaki úr kerfinu (t.d. tímaskráningar) til að vinna launagreiðslur og tryggja að skattar og gjöld séu rétt reiknuð.
+2. **[Utan stofnunar #2]** – Ríkisskattstjóri / aðrir opinberir eftirlitsaðilar:
+Tryggja að kerfið fylgi gildandi lögum og reglum um vinnurétt, skattaskil og endurgreiðslur, þannig að vinnuveitandi standi skil á réttum upplýsingum og starfsmenn fái löglega og örugga greiðslu..
 
 ## Innan stofnunar viðskiptavinar (ekki viðskiptavinir)
-1. **[Innan stofnunar #1]** – hlutverk og áhrif á verkefnið.
-2. **[Innan stofnunar  #2]** – hlutverk og áhrif á verkefnið.
+1. **[Innan stofnunar #1]** – Mannauðssvið:
+Nýtir gögnin úr kerfinu til að fylgjast með vinnutíma, yfirvinnu, leyfum og réttindum starfsmanna.
+2. **[Innan stofnunar  #2]** – Fjármáladeild:
+Ber ábyrgð á að samþykkja og greiða út endurgreiðslur og tryggja að kostnaður falli innan fjárhagsramma.
 
 ## Viðskiptavinir (ekki notendur)
-1. **[Viðskiptavinategund #1]** – hlutverk og áhrif.
-2. **[Viðskiptavinategund #2]** – hlutverk og áhrif.
+1. **[Viðskiptavinategund #1]** – Rekstrarstjóri liðveisluþjónustu:
+Kaupir og innleiðir kerfið til að auka skilvirkni og minnka handavinnu í rekstri.
+2. **[Viðskiptavinategund #2]** – Sveitarfélag / opinber styrktaraðili:
+Fjármagna þjónustuna óbeint og vilja tryggja gagnsæi og rétta úrvinnslu gagna um tímaskráningu og kostnað.
 
 ## Notendahópar
 
