@@ -78,11 +78,10 @@ synthesize about 20 new proprietary chemicals to go into the stockroom. Fred wan
 a report of his chemical usage for the previous month to be generated automatically
 and sent to him by email so that he can monitor his chemical exposure.
 --> 
-- **Nafn:**
-- **Notendahópur:**
+- **Nafn:** Anna Lísa
+- **Notendahópur:** Liðveislu starfsmaður
 - **Starf/hlutverk:**
-- **Lýsing:**
-- Anna Lísa 
+- **Lýsing:** 
 
 Staðreyndir:
 -26 ára
