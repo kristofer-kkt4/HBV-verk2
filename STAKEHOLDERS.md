@@ -29,25 +29,27 @@ Fjármagna þjónustuna óbeint og vilja tryggja gagnsæi og rétta úrvinnslu g
 
 ## Notendahópar
 
-### 1. [Heiti hóps]
-- **Staða:** [ ] Forgangs  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
+### 1. [liðveislu notendur]
+- **Staða:** [x] Forgangs  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
 - **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** [Ferlar, hlutverk, markmið]
+- **Lýsing:** [Nota appið daglega til að skrá tíma, akstur og kvittanir. þurfa einfalt og hraðvirkt forrit.]
+
 
 ### 2. [Heiti hóps]
-- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
+- **Staða:** [ ] Forgangs   [x] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
 - **Stærð:** ~[fjöldi notenda]  
 - **Lýsing:** …
+- Aðilar sem reyna að skrá sig inn án heimilda - Reyna að skrá sig inn eða nálgast gögn án réttinda. kerfið þarf að verjast misnotkun
 
-### 3. [Heiti hóps]
-- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
+### 3. [launafulltrúar]
+- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [x] Aðrir  [ ] Óbeinn  
 - **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** …
+- **Lýsing:** Nota kerfið til yfirferðar, samþykkis og reikna laun.
 
-### 4. [Heiti hóps]
-- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir [ ] Óbeinn  
+### 4. [deildarstjórar]
+- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [x] Aðrir [ ] Óbeinn  
 - **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** …
+- **Lýsing:** Hafa yfirlit yfir vinnu starfsmanna, samþykkja kvittanir og akstur. 
 
 ## Persona fyrir Forgangs  notendahóp
 <!--
@@ -80,3 +82,24 @@ and sent to him by email so that he can monitor his chemical exposure.
 - **Notendahópur:**
 - **Starf/hlutverk:**
 - **Lýsing:**
+- Anna Lísa 
+
+Staðreyndir:
+-26 ára
+-kona
+-Er í rekstarverkfræði
+-Vinnur í liðveislu með námi
+- Á bíl
+Hegðun:
+-Er góð og viðkunnanleg og á auðvelt með að umgangast fólk.
+-Á smá erfitt með að halda utan um kvittanir og nær oft ekki að skila þeim inn.
+-Gleymir stundum að skrá inn ferðir á réttum tíma.
+-Á erfitt með flókin notenda viðmót.
+-Notar símann mikið og vill helst gera allt í símanum.
+Þarfir og markmið:
+-finnst hún eiga að geta tekið mynd af kvittunum og sent þær eitthvert og fengið þær endurgreiddar 
+-Vill vera minnt á að skrá ferðir ef hún gleymir.
+-vill getað skráð ferðir sínar á rauntíma
+-þarf að fá skýrt yfirlit yfir laun þar á meðal endurgjald fyrir ferðagjald og annan kostnað
+-Vill nota símann við vinnuskráningu.
+
