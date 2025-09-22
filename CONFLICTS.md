@@ -14,18 +14,18 @@
 ## Requirements Value Conflicts
 3. **Dæmi #3**  
    - Átaksþáttur: Notandi vill geta tekið mynd af kvittun í appinu. Notandi vill sjá hvaða kvittanir hafa verið samþykktar/endurgreiddar. Deildarstjóri þykir þetta ekki nauðsynlegt, þar sem honum finnst mikilvægara að hugsa um aksturinn. En liðveislustarfsmaðurinn þykir þetta mikilvægi. Þetta auðveldar honum utanumhald um kostnað sem hann er búinn að leggja til.
-   - Hagsmunaaðilar: …  
+   - Hagsmunaaðilar: Liðveislu starfsmenn, deildarstjóri, launafulltrúi, product owner.
    - Viðeigandi leið til úrlausnar: Þar sem þetta er árekstur milli notenda og yfirmanns ætti að vera “product owner” sem sér um úrlausnina.
 
 4. **Dæmi #4**  
-   - Átaksþáttur: …  
+   - Átaksþáttur: 
    - Hagsmunaaðilar: …  
    - Lausn: …  
 
 ## Requirements Substance Conflicts
 5. **Dæmi #5**  
    - Átaksþáttur: Kerfið þarf að sýna notanda unnin tíma og laun. Launafulltrúi vill ekki birta laun. En liðveislustarfsmaðurinn þykir þetta mikilvægi. 
-   - Hagsmunaaðilar: …  
+   - Hagsmunaaðilar: Liðveislu starfsmenn, launafulltrúi.
    - Viðeigandi leið til úrlausnar: horfa þarf til markmið verkefnisins. Sem er ekki endilega að sýna starfsmönnum launin sín.
 
 
@@ -37,11 +37,11 @@
 ## Requirements Process Conflicts
 7. **Dæmi #7**  
    - Átaksþáttur: Notendur finnst viðskiptagreinandi ekki að hlusta á sig. Notendur reyna að útskýra kröfur sínar, en þær fara ekki inn í kröfulýsinguna. Eða þörfunum er rangt lýst.
-   - Hagsmunaaðilar: …  
+   - Hagsmunaaðilar: Liðveislu starfsmenn, viðskiptagreinandi.
    - Viðeigandi leið til úrlausnar: Tryggja að allir aðilar fái stað til þess að hafa áhrif á lausnina. Og rödd allra hagsmunaaðila heyrist í ferlinu.
 
 
 8. **Dæmi #8**  
    - Átaksþáttur: Forriturum er ekki sýndur skilningur þegar kemur að kostnaði og möguleika á lausn. 
-   - Hagsmunaaðilar: …  
+   - Hagsmunaaðilar: Forritarar, viðskiptagreinandi.
    - Viðeigandi leið til úrlausnar: Ábyrgðarmaður verkefnisins þarf að tryggja sameiginlegan skilning á kröfum og mögulegum lausnum verkefnisins
