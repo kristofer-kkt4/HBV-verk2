@@ -39,9 +39,21 @@ Starfsmenn utan liðveisluþjónustu – Hafa ekki aðgang en gætu reynt að no
 
 ## 3. Greining á mögulegum árekstrum og tillögu að úrlausnum
 
-Stutt samantekt á CONFLICTS.md - hverjir eru hugsanlegir árekstrar og tillögur
-að úrlausnum 
-Setjið hlekk á CONFLICTS skrána 
+Business Strategy Conflicts:    
+Notendur vilja einfaldan skráningarferil, deildarstjóri eftirlit: Skilgreina sameiginleg markmið; product owner tryggir jafnvægi.
+Öryggiskröfur og hraður aðgangur: Skilgreina öryggisstefnu og miðla henni til allra hagsmunaaðila.
+
+Requirements Value Conflicts:     
+Kvittanir og birting: Product owner ákveður forgang og jafnvægi.
+Offline skráning: Eigandi verkefnisins metur kostnað og ávinning.
+
+Requirements Substance Conflicts:    
+Birting launa og unnin tími: Meta markmið verkefnisins og mikilvægi upplýsinganna.
+Innskráning og öryggisstaðlar: Rýna staðla og finna samkomulag.
+
+Requirements Process Conflicts:    
+Skilningur á kröfum: Tryggja rödd allra hagsmunaaðila í ferlinu.
+Kostnaður og lausnarmöguleikar: Ábyrgðarmaður tryggir sameiginlegan skilning.
 
 [Árekstrar og úrlausnir](CONFLICTS.md)
 
