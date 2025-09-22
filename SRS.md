@@ -8,6 +8,7 @@ Tíminn
 ## 1. Inngangur
 
 ### 1.1 Gildissvið (Scope)
+
 Tímaskráningar kerfi fyrir starfsfólk í liðveislu. Kerfið á að halda utanum unninn tíma notenda og akstur þeirra á vinnutíma. 
 Notandinn ætti að geta skráð sig inn þegar hann byrjar að vinna, og skráð sig út þegar vinnu líkur. Tíminn sem hann vinnur skráist síðan sjálfkrafa niður og reiknar laun. 
 Þegar notandinn byrjar að aka getur hann merkt við í appinu að hann sé byrjaður að keyra og síðan merkt við þegar akstri lýkur. Þar með skráist heildarakstur á vinnutíma. Síðan bætist eldsneytiskostnaður upp að ákveðinni upphæð við launin. Kerfið nýtir sér gps við reikning á akstri.
@@ -15,8 +16,10 @@ Einnig á forritið að geta tekið myndir af kvittunum á mat og afþreyingu. �
 
 
 ### 1.2 Tilvísanir
+
 - IEEE 29148 staðall
 - COS Vision & Scope (fyrirmynd) eða aðrar fyrirmyndir sem þið notið
+
 
 ## 2. Lýsing á hagsmunaaðilum og notendahópum
 
@@ -37,6 +40,7 @@ Starfsmenn utan liðveisluþjónustu – Hafa ekki aðgang en gætu reynt að no
 
 [Hagsmunaaðilar og notendahópar](STAKEHOLDERS.md)
 
+
 ## 3. Greining á mögulegum árekstrum og tillögu að úrlausnum
 
 Business Strategy Conflicts:    
@@ -56,6 +60,7 @@ Skilningur á kröfum: Tryggja rödd allra hagsmunaaðila í ferlinu.
 Kostnaður og lausnarmöguleikar: Ábyrgðarmaður tryggir sameiginlegan skilning.
 
 [Árekstrar og úrlausnir](CONFLICTS.md)
+
 
 ## 4. Verkaskipting og ígrundun 
 Stutt samantekt og hlekkur á skrána 
