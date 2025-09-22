@@ -13,14 +13,9 @@
 
 ## Requirements Value Conflicts
 3. **Dæmi #3**  
-   - Átaksþáttur: …  
+   - Átaksþáttur: Notandi vill geta tekið mynd af kvittun í appinu. Notandi vill sjá hvaða kvittanir hafa verið samþykktar/endurgreiddar. Deildarstjóri þykir þetta ekki nauðsynlegt, þar sem honum finnst mikilvægara að hugsa um aksturinn. En liðveislustarfsmaðurinn þykir þetta mikilvægi. Þetta auðveldar honum utanumhald um kostnað sem hann er búinn að leggja til.
    - Hagsmunaaðilar: …  
-   - Lausn: …
-   - Notandi vill geta tekið mynd af kvittun í appinu.
-Notandi vill sjá hvaða kvittanir hafa verið samþykktar/endurgreiddar.
-Deildarstjóri þykir þetta ekki nauðsynlegt, þar sem honum finnst mikilvægara að hugsa um aksturinn. En liðveislustarfsmaðurinn þykir þetta mikilvægi. Þetta auðveldar honum utanumhald um kostnað sem hann er búinn að leggja til.
-Viðeigandi leið til úrlausnar: Þar sem þetta er árekstur milli notenda og yfirmanns ætti að vera “product owner” sem sér um úrlausnina.
-
+   - Viðeigandi leið til úrlausnar: Þar sem þetta er árekstur milli notenda og yfirmanns ætti að vera “product owner” sem sér um úrlausnina.
 
 4. **Dæmi #4**  
    - Átaksþáttur: …  
@@ -29,12 +24,9 @@ Viðeigandi leið til úrlausnar: Þar sem þetta er árekstur milli notenda og 
 
 ## Requirements Substance Conflicts
 5. **Dæmi #5**  
-   - Átaksþáttur: …  
+   - Átaksþáttur: Kerfið þarf að sýna notanda unnin tíma og laun. Launafulltrúi vill ekki birta laun. En liðveislustarfsmaðurinn þykir þetta mikilvægi. 
    - Hagsmunaaðilar: …  
-   - Lausn: …
-   - Kerfið þarf að sýna notanda unnin tíma og laun.
-Launafulltrúi vill ekki birta laun. En liðveislustarfsmaðurinn þykir þetta mikilvægi. 
-Viðeigandi leið til úrlausnar: horfa þarf til markmið verkefnisins. Sem er ekki endilega að sýna starfsmönnum launin sín.
+   - Viðeigandi leið til úrlausnar: horfa þarf til markmið verkefnisins. Sem er ekki endilega að sýna starfsmönnum launin sín.
 
 
 6. **Dæmi #6**  
@@ -44,16 +36,12 @@ Viðeigandi leið til úrlausnar: horfa þarf til markmið verkefnisins. Sem er 
 
 ## Requirements Process Conflicts
 7. **Dæmi #7**  
-   - Átaksþáttur: …  
+   - Átaksþáttur: Notendur finnst viðskiptagreinandi ekki að hlusta á sig. Notendur reyna að útskýra kröfur sínar, en þær fara ekki inn í kröfulýsinguna. Eða þörfunum er rangt lýst.
    - Hagsmunaaðilar: …  
-   - Lausn: …
-Notendur finnst viðskiptagreinandi ekki að hlusta á sig. Notendur reyna að útskýra kröfur sínar, en þær fara ekki inn í kröfulýsinguna. Eða þörfunum er rangt lýst.
-Viðeigandi leið til úrlausnar: Tryggja að allir aðilar fái stað til þess að hafa áhrif á lausnina. Og rödd allra hagsmunaaðila heyrist í ferlinu.
+   - Viðeigandi leið til úrlausnar: Tryggja að allir aðilar fái stað til þess að hafa áhrif á lausnina. Og rödd allra hagsmunaaðila heyrist í ferlinu.
 
 
 8. **Dæmi #8**  
-   - Átaksþáttur: …  
+   - Átaksþáttur: Forriturum er ekki sýndur skilningur þegar kemur að kostnaði og möguleika á lausn. 
    - Hagsmunaaðilar: …  
-   - Lausn: …  
-Forriturum er ekki sýndur skilningur þegar kemur að kostnaði og möguleika á lausn. 
-Viðeigandi leið til úrlausnar: Ábyrgðarmaður verkefnisins þarf að tryggja sameiginlegan skilning á kröfum og mögulegum lausnum verkefnisins
+   - Viðeigandi leið til úrlausnar: Ábyrgðarmaður verkefnisins þarf að tryggja sameiginlegan skilning á kröfum og mögulegum lausnum verkefnisins
