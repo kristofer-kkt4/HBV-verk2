@@ -30,9 +30,9 @@
 
 
 6. **Dæmi #6**  
-   - Átaksþáttur:
-   - Hagsmunaaðilar:
-   - Viðeigandi leið til úrlausnar:
+   - Átaksþáttur: Notendur vilja að innskráning renni aldrei út, en öryggisstaðlar krefjast reglulegrar endurnýjunar.
+   - Hagsmunaaðilar: liðveislu starfsmenn, persónuverndarfulltrúi
+   - Viðeigandi leið til úrlausnar: Rýna í öryggisstaðla stofnunarinnar.
 
 ## Requirements Process Conflicts
 7. **Dæmi #7**  
