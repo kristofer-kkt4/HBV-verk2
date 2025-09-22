@@ -7,9 +7,9 @@
    - Viðeigandi leið til úrlausnar: Skilgreina sameiginleg stefnumarkmið. Kerfið á bæði að nýtast sem stjórnunartæki og sem þjónusta fyrir starfsmenn. Product owner þarf að tryggja jafnvægi í hönnun
 
 2. **Dæmi #2**  
-   - Átaksþáttur: …
-   - Hagsmunaaðilar: …  
-   - Viðeigandi leið til úrlausnar:
+   - Átaksþáttur: Persónuverndarfulltrúi leggur áherslu á strangar öryggiskröfur (t.d. tvíþætta auðkenningu), en notendur vilja hraða og einfalt innskráningarferli.
+   - Hagsmunaaðilar: Persónuverndarfulltrúi, liðveislu starfsmenn.
+   - Viðeigandi leið til úrlausnar: Í upphafi verkefnisins skal skilgreina stefnu öryggismála og miðla þeirri stefnu til hagsmunaaðila
 
 ## Requirements Value Conflicts
 3. **Dæmi #3**  
@@ -26,13 +26,13 @@
 5. **Dæmi #5**  
    - Átaksþáttur: Kerfið þarf að sýna notanda unnin tíma og laun. Launafulltrúi vill ekki birta laun. En liðveislustarfsmaðurinn þykir þetta mikilvægi. 
    - Hagsmunaaðilar: Liðveislu starfsmenn, launafulltrúi.
-   - Viðeigandi leið til úrlausnar: horfa þarf til markmið verkefnisins. Sem er ekki endilega að sýna starfsmönnum launin sín.
+   - Viðeigandi leið til úrlausnar: Horfa þarf til markmiðs verkefnisins. Sem er ekki endilega að sýna starfsmönnum launin sín.
 
 
 6. **Dæmi #6**  
-   - Átaksþáttur: Persónuverndarfulltrúi leggur áherslu á strangar öryggiskröfur (t.d. tvíþætta auðkenningu), en notendur vilja hraða og einfalt innskráningarferli.
-   - Hagsmunaaðilar: Persónuverndarfulltrúi, liðveislu starfsmenn.
-   - Viðeigandi leið til úrlausnar: 
+   - Átaksþáttur: 
+   - Hagsmunaaðilar:
+   - Viðeigandi leið til úrlausnar:
 
 ## Requirements Process Conflicts
 7. **Dæmi #7**  
