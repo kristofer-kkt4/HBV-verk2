@@ -10,46 +10,44 @@ Fyrir hvern notendahóp skal skrá:
 -->
 
 ## Utan stofnunar viðskiptavinar (ekki viðskiptavinir)
-1. **[Utan stofnunar #1]** – Launafyrirtæki / bókhaldsþjónusta:
+1. **Launafyrirtæki / bókhaldsþjónusta** – 
 Tekur við úttaki úr kerfinu (t.d. tímaskráningar) til að vinna launagreiðslur og tryggja að skattar og gjöld séu rétt reiknuð.
-2. **[Utan stofnunar #2]** – Ríkisskattstjóri / aðrir opinberir eftirlitsaðilar:
+2. **Ríkisskattstjóri / aðrir opinberir eftirlitsaðilar** – 
 Tryggja að kerfið fylgi gildandi lögum og reglum um vinnurétt, skattaskil og endurgreiðslur, þannig að vinnuveitandi standi skil á réttum upplýsingum og starfsmenn fái löglega og örugga greiðslu..
 
 ## Innan stofnunar viðskiptavinar (ekki viðskiptavinir)
-1. **[Innan stofnunar #1]** – Mannauðssvið:
+1. **Mannauðssvið** – 
 Nýtir gögnin úr kerfinu til að fylgjast með vinnutíma, yfirvinnu, leyfum og réttindum starfsmanna.
-2. **[Innan stofnunar  #2]** – Fjármáladeild:
+2. **Fjármáladeild** – 
 Ber ábyrgð á að samþykkja og greiða út endurgreiðslur og tryggja að kostnaður falli innan fjárhagsramma.
 
 ## Viðskiptavinir (ekki notendur)
-1. **[Viðskiptavinategund #1]** – Rekstrarstjóri liðveisluþjónustu:
+1. **Rekstrarstjóri liðveisluþjónustu** – 
 Kaupir og innleiðir kerfið til að auka skilvirkni og minnka handavinnu í rekstri.
-2. **[Viðskiptavinategund #2]** – Sveitarfélag / opinber styrktaraðili:
+2. **Sveitarfélag / opinber styrktaraðili** – 
 Fjármagna þjónustuna óbeint og vilja tryggja gagnsæi og rétta úrvinnslu gagna um tímaskráningu og kostnað.
 
 ## Notendahópar
 
-### 1. [liðveislu notendur]
+### 1. Starfsmenn í liðveislu
 - **Staða:** [x] Forgangs  [ ] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
-- **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** [Nota appið daglega til að skrá tíma, akstur og kvittanir. þurfa einfalt og hraðvirkt forrit.]
+- **Stærð:** ~50-200  
+- **Lýsing:** Skrá vinnutíma, akstur og kvittanir fyrir endurgreiðslu. Þeir nota forritið daglega og eru aðalhópurinn sem forritið er hannað fyrir.  
 
+### 2. Verkefnastjórar / umsjónarmenn
+- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [X] Aðrir  [ ] Óbeinn  
+- **Stærð:** ~5-20  
+- **Lýsing:** Samþykkja og yfirfara skráningar starfsmanna. Tryggja að gögn séu rétt áður en þau fara í gegnum launavinnslu. Þeir eru lykilhópur til að tryggja gæði gagna.  
 
-### 2. [Heiti hóps]
-- **Staða:** [ ] Forgangs   [x] Óæskilegir  [ ] Aðrir  [ ] Óbeinn  
-- **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** …
-- Aðilar sem reyna að skrá sig inn án heimilda - Reyna að skrá sig inn eða nálgast gögn án réttinda. kerfið þarf að verjast misnotkun
+### 3. Launafulltrúar / Fjármáladeild
+- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [ ] Aðrir  [X] Óbeinn  
+- **Stærð:** ~2-5  
+- **Lýsing:** Nota úttak úr forritinu til að vinna laun og bókhald. Þeir skrá ekki sjálfir heldur treysta á samþykkt gögn úr kerfinu. 
 
-### 3. [launafulltrúar]
-- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [x] Aðrir  [ ] Óbeinn  
-- **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** Nota kerfið til yfirferðar, samþykkis og reikna laun.
-
-### 4. [deildarstjórar]
-- **Staða:** [ ] Forgangs   [ ] Óæskilegir  [x] Aðrir [ ] Óbeinn  
-- **Stærð:** ~[fjöldi notenda]  
-- **Lýsing:** Hafa yfirlit yfir vinnu starfsmanna, samþykkja kvittanir og akstur. 
+### 4. Óviðkomandi starfsmenn utan liðveisluþjónustu
+- **Staða:** [ ] Forgangs   [X] Óæskilegir  [ ] Aðrir [ ] Óbeinn  
+- **Stærð:** ~Óþekktur  
+- **Lýsing:** Hafa ekki aðgang að forritinu en gætu ranglega reynt að nota það. Þessi hópur þarf að vera útilokaður til að tryggja öryggi gagna.   
 
 ## Persona fyrir Forgangs  notendahóp
 <!--
@@ -79,26 +77,8 @@ a report of his chemical usage for the previous month to be generated automatica
 and sent to him by email so that he can monitor his chemical exposure.
 --> 
 - **Nafn:** Anna Lísa
-- **Notendahópur:** Liðveislu starfsmaður
-- **Starf/hlutverk:**
+- **Notendahópur:** Starfsmenn í liðveislu (kjörinn notendahópur)
+- **Starf/hlutverk:** Liðveisla fyrir einstakling með fötlun, vinnur bæði á dag- og kvöldvöktum.  
 - **Lýsing:** 
 
-Staðreyndir:
--26 ára
--kona
--Er í rekstarverkfræði
--Vinnur í liðveislu með námi
-- Á bíl
-Hegðun:
--Er góð og viðkunnanleg og á auðvelt með að umgangast fólk.
--Á smá erfitt með að halda utan um kvittanir og nær oft ekki að skila þeim inn.
--Gleymir stundum að skrá inn ferðir á réttum tíma.
--Á erfitt með flókin notenda viðmót.
--Notar símann mikið og vill helst gera allt í símanum.
-Þarfir og markmið:
--finnst hún eiga að geta tekið mynd af kvittunum og sent þær eitthvert og fengið þær endurgreiddar 
--Vill vera minnt á að skrá ferðir ef hún gleymir.
--vill getað skráð ferðir sínar á rauntíma
--þarf að fá skýrt yfirlit yfir laun þar á meðal endurgjald fyrir ferðagjald og annan kostnað
--Vill nota símann við vinnuskráningu.
-
+Anna er 23 ára og vinnur hlutastarf samhliða námi. Hún þarf reglulega að skrá inn vinnutíma sinn, keyrsluvegalengdir og halda utan um kvittanir fyrir útgjöldum tengdum starfinu. Í dag fer þetta ferli fram að mestu leyti handvirkt, tekur langan tíma og er flókið að halda öllu réttum gögnum saman. Anna vill fá einfalda lausn í símanum þar sem hún getur strax stimplað sig inn og út, skráð ferðir á meðan þær eiga sér stað og tekið myndir af kvittunum áður en þær glatast. Anna er ekki sérfræðingur í tölvutækni og vill einfalt viðmót sem tekur sem minnstan tíma frá starfinu sjálfu. Fyrir hana skiptir mestu máli að allt sé rétt skráð í fyrsta sinn svo hún þurfi ekki að eyða tíma í leiðréttingar síðar og fái greitt á réttum tíma. 
