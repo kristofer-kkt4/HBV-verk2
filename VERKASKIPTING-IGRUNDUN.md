@@ -1,7 +1,7 @@
 ## Verkaskipting
 Skrifið stutta lýsingu um hvernig þið
 #### skiptuð með ykkur verkum, t.d. hvernig þið unnið kröfurnar ein eða alltaf saman 
-Í verkefninu sá Kristófer um að gera stakeholders.md skránna og srs skránna en hann vann einnig í conflicts skránni. Helga skrifaði notendalýsingu í docsskjal og vann einnig í conflicst skránni. Bergur las yfir, leiðrétti, bætti við, skrifaði verkefnaskiptinguna og ígrundunina.
+Í verkefninu sá Kristófer um að gera stakeholders.md skránna og srs skránna. Helga skrifaði notendalýsingu í docsskjal og vann einnig í conflicst skránni. Bergur las yfir, leiðrétti, bætti við, skrifaði verkefnaskiptinguna og ígrundunina.
 #### rýnduð kröfurnar hjá hvert öðru
 Allir meðlimir hópsins rýndu í kröfurnar hjá hvert öðru með því að skoða þær og ræða um þær.
 ####  gerðuð pull, commit og push og pull request
