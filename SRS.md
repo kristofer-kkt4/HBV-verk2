@@ -63,5 +63,23 @@ Kostnaður og lausnarmöguleikar: Ábyrgðarmaður tryggir sameiginlegan skilnin
 
 
 ## 4. Verkaskipting og ígrundun 
-Stutt samantekt og hlekkur á skrána 
+
+Verkaskipting og Ígrundun – Stutt samantekt
+
+Verkaskipting:    
+Kristófer gerði stakeholders.md og srs.md.
+Helga skrifaði notendalýsingu og vann einnig í conflicts.md.
+Bergur las yfir, leiðrétti, bætti við, skrifaði verkefnaskiptingu og ígrundun.
+
+Rýni á kröfur:    
+Allir meðlimir hópsins rýndu kröfurnar hjá hvert öðru, skoðuðu þær og ræddu.
+
+Git workflow:    
+Skrár voru leiðréttar, committaðar á nýtt branch og push-aðar, sem sjálfkrafa gerði pull request.
+
+Ígrundun:    
+Gekk vel: Gott samstarf, skýr verkaskipting, fróðlegar hugmyndir um árekstra og lausnir.
+
+Hægt að bæta: Hittast oftar í persónu og byrja verkefnið fyrr.
+
 [Verkaskipting og ígrundun](VERKASKIPTING-IGRUNDUN.md)
