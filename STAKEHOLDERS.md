@@ -77,7 +77,7 @@ a report of his chemical usage for the previous month to be generated automatica
 and sent to him by email so that he can monitor his chemical exposure.
 --> 
 - **Nafn:** Anna Lísa
-- **Notendahópur:** Starfsmenn í liðveislu (kjörinn notendahópur)
+- **Notendahópur:** Starfsmenn í liðveislu 
 - **Starf/hlutverk:** Liðveisla fyrir einstakling með fötlun, vinnur bæði á dag- og kvöldvöktum.  
 - **Lýsing:** 
 
